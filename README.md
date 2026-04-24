@@ -69,7 +69,7 @@ Detection of GraveBoot requires monitoring for anomalies in system-level executi
 - [Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) extracted in project folder
 - v2 Folder from [AHK](https://www.autohotkey.com/) (found at C:\Program Files\AutoHotkey after installation) in project folder
 - resource.txt in project folder
-
+- Colorama 
 ---
 
 
