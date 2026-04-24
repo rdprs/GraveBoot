@@ -65,5 +65,14 @@ Detection of GraveBoot requires monitoring for anomalies in system-level executi
 
 ---
 
+## Requirements
+- [Ahk2Exe](https://github.com/AutoHotkey/Ahk2Exe) extracted in project folder
+- v2 Folder from [AHK](https://www.autohotkey.com/) (found at C:\Program Files\AutoHotkey after installation) in project folder
+- resource.txt in project folder
+
+---
+
+
 ## DISCLAIMER
 This software is intended for research, educational, and authorized red-teaming purposes only. The misuse of this information for unauthorized access or disruption of computer systems is strictly prohibited.
+
