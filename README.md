@@ -1,6 +1,6 @@
 
 # GRAVEBOOT
-[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasar)
+[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://github.com/rdprs/GraveBoot)
 [![License](https://img.shields.io/github/license/quasar/Quasar.svg)](LICENSE)
 
 ## WINDOWS RESET SURVIVAL FRAMEWORK
