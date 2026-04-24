@@ -1,10 +1,8 @@
 
-# GRAVEBOOT
+# GraveBoot - WinReset Survival Framework
+
 [![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://github.com/rdprs/GraveBoot)
 [![License](https://img.shields.io/github/license/quasar/Quasar.svg)](LICENSE)
-
-## WINDOWS RESET SURVIVAL FRAMEWORK
-
 ![Preview](img/preview.png)
 
 GraveBoot is a specialized post-exploitation framework designed to subvert the **Windows "Reset this PC" (WinRE)** mechanism. By leveraging Image File Execution Options (IFEO) and various UI automation tools, GraveBoot intercepts system restoration attempts, aborts the legitimate recovery process, and simulates a successful factory reset while maintaining persistent control over the host environment.
